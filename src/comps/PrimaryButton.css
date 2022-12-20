@@ -1,0 +1,21 @@
+.primary-btns {
+  border: 5em;
+  cursor: pointer;
+  outline: none;
+  font-size: 16px;
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  background: linear-gradient(90deg, #19d3ae -38.67%, #0fcfec 129.78%);
+  padding: 0.7em 2em;
+  border-radius: 1px;
+  box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+  -webkit-transition: box-shadow 0.25s;
+  transition: box-shadow 0.25s;
+  color: white;
+  border-radius: 5px;
+  transition: 0.6s;
+}
+.primary-btns:hover {
+  background: #3a4256;
+  border-radius: 5px;
+}

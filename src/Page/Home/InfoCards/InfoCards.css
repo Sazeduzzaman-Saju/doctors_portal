@@ -1,0 +1,18 @@
+.info-bg-gradient {
+  background: linear-gradient(90deg, #19d3ae -38.67%, #0fcfec 129.78%);
+  border-radius: 14px;
+  border: 0px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.info-bg-gradient2 {
+  background: linear-gradient(90deg, #3a4256 -38.67%, #6d7589 129.78%);
+  border-radius: 14px;
+  border: 0px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.info-details-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
